@@ -1,0 +1,22 @@
+div.container-fluid { background-color: lightblue; }
+.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link { color: lightblue; }
+#sideNav .navbar-nav .nav-item .nav-link:hover { color: lightblue; } 
+#sideNav .navbar-brand .img-profile { border: 0.5rem solid rgba(173, 216, 230, 0.2) }
+
+.bg-primary { background-color: #331c10 !important; }
+.text-primary { color: #331c10 !important; }
+h1, h2, h3 { color: #331c10 !important; }
+
+
+body { color: #5c3927; }
+div.subheading a { color: #5c3927 !important; }
+.fa-certificate { color: #5c3927 !important }
+.other-color  { color: #5c3927 !important }
+
+
+.social-icons a { color: lightblue !important; }
+.social-icons a { background-color: #5c3927 !important; }
+.social-icons a:hover { background-color: #331c10 !important; }
+
+hr { border-top: 1px solid rgba(92,57,39,.5) ; }
+
